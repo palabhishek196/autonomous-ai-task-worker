@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.db
+.venv/
+.venv/
+.env
+__pycache__/
+*.pyc
+*.db
+workspace/
+.venv/
+.env
+__pycache__/
+*.pyc
+*.db
+workspace/
